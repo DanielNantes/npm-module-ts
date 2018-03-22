@@ -1,0 +1,24 @@
+{
+  "name": "npm-module-ts",
+  "version": "1.0.0",
+  "description": "Learning how to create a npm module in typescript",
+  "main": "dist/index.js",
+  "types" : "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielNantes/npm-module-ts.git"
+  },
+  "author": "Daniel Nantes",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/DanielNantes/npm-module-ts/issues"
+  },
+  "homepage": "https://github.com/DanielNantes/npm-module-ts#readme"
+  ,
+  "devDependencies": {
+    "typescript": "2.7.2"
+  }
+}
