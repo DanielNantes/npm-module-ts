@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DanielNantes/npm-module-ts.git"
+    "url": "git://github.com/DanielNantes/npm-module-ts.git"
   },
   "author": "Daniel Nantes",
   "license": "UNLICENSED",
